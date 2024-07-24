@@ -36,3 +36,8 @@ Type your question into the text field and press the "Ask" button.
 4. Get an Answer:
 The chatbot will display the answer it receives from the Gemini-Pro model.
 
+<img width="1430" alt="Screenshot 2024-07-24 at 3 05 06 AM" src="https://github.com/user-attachments/assets/021d748d-54c6-42fb-9efb-a205a99c5b62">
+
+<img width="1440" alt="Screenshot 2024-07-24 at 3 08 53 AM" src="https://github.com/user-attachments/assets/32a67b9a-fc27-4fa1-8d87-b223deab444e">
+
+
